@@ -38,6 +38,6 @@ Undershoot affects the reduction of perceived latency, or rather, that reduction
 
 It’s important to consider that high variance between undershoot and overshoot generates a bad experience in any kind of scenario that does not have any measures against rubber banding.
 
-![Undershoot Example](./Undershoot.png)
+![Undershoot Example](./undershoot.png)
 Figure 3: Black:Real; Grey:Future; Red:Predicted
 
